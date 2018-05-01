@@ -4,7 +4,7 @@
 def key_for_min_value(name_hash)
   smallest_hash_value = ""
   empty_hash = ""
-  name_hash.collect do |key, value|
+  name_hash.each do |key, value|
 
   end
 end
