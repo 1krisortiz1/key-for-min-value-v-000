@@ -5,10 +5,8 @@ def key_for_min_value(name_hash)
   #tracking variables
   min_key = nil
   min_value = nil
-  #iterator 
+  #iterator
     name_hash.each do |key, value|
-  
-  end
-end
+
 end
 end
